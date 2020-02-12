@@ -1,7 +1,7 @@
+**This is Numerical Method project for Spring-2018**
 # Fixed-Point-Iteration-Method
 This is an example of fixed point iteration method in c.
 
-![picture of example output](Fixed-Point%20Iteration.JPG)
 -----------------------------------
 
 
@@ -22,15 +22,26 @@ II.	Abu Sayem (162-15-7682)
 III.	Md. Ashiqur Rahman (162-15-7723)
 IV.	Abdullah Al Azmi  (162-15-7959)
 V.	Md. Ismail Hossain (162-15-7838)
- 
- 
-Bisection Method
- 
-Fixed Point Iteration
- 
-Newton’s Method
 
-Bisection Method
+
+
+ 
+ ![picture of example output](images/1.png)
+ 
+		Bisection Method
+		
+		
+		
+ ![picture of example output](images/2.png)
+ 
+	Fixed Point Iteration
+	
+	
+ ![picture of example output](images/3.png)
+ 
+	Newton’s Method
+
+**Bisection Method**
 It is a method to find roots of a function by repeatedly bisects an interval and take that half in which root must lies for further processing.
 
 Given function is f(x).
@@ -103,6 +114,8 @@ scanf("%lf %lf %lf",&lower, &upper, &criterion);
 
     return 0;
 }
+
+![picture of example output](images/Bisection.png)
  
  
 Fixed Point Iteration
@@ -234,7 +247,7 @@ int main()
 }
  
 
-
+![picture of example output](images/fixed_point.png)
 
 
 
@@ -302,6 +315,9 @@ int main ()
 
     return 0;
 }
+
+![picture of example output](images/newton.png)
+
 
 **The End**
 
